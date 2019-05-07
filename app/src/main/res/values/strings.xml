@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Product Test App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Fajar Khan</string>
+    <string name="nav_header_subtitle">test@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_account">My Account</string>
+    <string name="menu_offers">Offers</string>
+    <string name="menu_orders">My Orders</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_search">search</string>
+</resources>
